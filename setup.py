@@ -16,5 +16,5 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
     },
     license='MIT',
-    packages=['honfoong'],
+    packages=['python_tutorial_package3'],
 )
